@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @skcodes-dotcom
+- 🌱 I’m currently learning Python, Javascript, HTML5 and CSS3
